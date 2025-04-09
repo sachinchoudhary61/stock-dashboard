@@ -38,16 +38,19 @@ StockDashboard is a Phoenix-powered web application to upload, aggregate, and vi
 | DB           | PostgreSQL `>= 13`             |
 | Server       | Bandit                         |
 | Packaging    | Multi-stage Dockerfile
-                                 |
+                                 
 
-Dockerfile is parially developed But not completed 
+# Dockerfile is parially developed But not completed 
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Live App:** [https://your-app-name.gigalixirapp.com](https://your-app-name.gigalixirapp.com)
+## 📽️ Demo Video
 
-> ⚠️ Replace with your real domain from Fly.io, Gigalixir, Railway, etc.
+[![Watch the video](https://img.youtube.com/vi/3W-Uslz2kck/0.jpg)](https://www.youtube.com/watch?v=3W-Uslz2kck)
+
+Click the image above to watch the video on YouTube.
+
 
 ---
 
