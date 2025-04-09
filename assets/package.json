@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "chart.js": "^4.4.8",
+    "phoenix": "^1.7.21",
+    "phoenix_html": "^4.2.1"
+  },
+  "scripts": {
+    "deploy": "esbuild js/app.js --bundle --target=es2017 --outfile=../priv/static/assets/app.js && mix phx.digest",
+    "watch": "esbuild js/app.js --bundle --target=es2017 --outfile=../priv/static/assets/app.js --watch"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.2"
+  }
+}
