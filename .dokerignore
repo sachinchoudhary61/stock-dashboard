@@ -1,0 +1,8 @@
+/_build
+/deps
+/test
+/assets/node_modules
+*.swp
+*.swo
+*.log
+*.tmp
